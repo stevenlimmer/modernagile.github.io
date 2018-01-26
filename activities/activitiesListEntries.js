@@ -50,5 +50,18 @@ activitiesListEntries = [
       experimentAndLearnRapidly: true,
       deliverValueContinuously: false
     }
+    },
+    {
+    id: 'safety-constellation',
+    title: 'Safety Constellation',
+    author: 'Steven Limmer',
+    duration: '30 - 90 minutes',
+    objective: 'To help establish safety in your team/organisation. Participants gather around an object that represents a "Constellation", and the coach(es) ask probing questions, for example “do you feel that you are empowered to make changes in your workplace?" Participants arrange themselves accordingly, closer to the ‘constellation’ indicating agreement, distance from the constellation indicating disagreement. The coach should then walk around the participants, and ask them to explain why they placed themselves where they did. This should open the floor to further discussion, which the coach should facilitate until conversation becomes less than useful, or the topic comes to a natural close',
+    categories: {
+      makePeopleAwesome: false,
+      makeSafetyAPrerequisite: true,
+      experimentAndLearnRapidly: false,
+      deliverValueContinuously: false
+    }
   }
 ]
